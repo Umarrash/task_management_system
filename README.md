@@ -1,4 +1,7 @@
 'csrfmiddlewaretoken': '{{ csrf_token }}'
+django-admin startproject mysite
+python manage.py startapp polls
+python manage.py runserver
 
 settings.py
 
