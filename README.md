@@ -1,3 +1,5 @@
+'csrfmiddlewaretoken': '{{ csrf_token }}'
+
 settings.py
 
 INSTALLED_APPS = [
